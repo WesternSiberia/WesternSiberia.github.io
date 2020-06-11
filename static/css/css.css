@@ -53,6 +53,9 @@ a {
 border-radius: 10px; /*скругление*/
 float: left;
 margin-right: 10px;
+background-image: url('https://avatars3.githubusercontent.com/u/66587439');
+width: 100px;
+height: 100px;
 }
 
 .logo{
