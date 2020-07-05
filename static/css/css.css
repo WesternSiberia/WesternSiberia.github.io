@@ -91,6 +91,7 @@ height: 100px;
 
 .cont{
 	color: black;
+	text-decoration: none;
 	border: 2px solid grey;
 	margin: 10px;
 	padding: 10px;
@@ -98,17 +99,28 @@ height: 100px;
 }
 
 .cont-header{
-	color: black;
-	text-decoration: none;
 	font-weight: 500; /*толщина шрифта*/
 	font-size: 30px; /*Размер шрифта*/
 }
 
 .cont-text{
-	color: black;
-	text-decoration: none;
 	font-weight: 300; /*толщина шрифта*/
 	font-size: 16px; /*Размер шрифта*/
+	height: 150px;
+}
+.cont-text-team {
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	width: 30%;
+	float: left;
+}
+.cont-text-team-img {
+	border-radius: 50px; /*скругление*/
+}
+.cont-text-team-name {
+	font-weight: 800; /*толщина шрифта*/
+	font-size: 24px; /*Размер шрифта*/
 }
 
 .enjoy-css {
